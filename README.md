@@ -82,4 +82,4 @@ For issues, disputes, or help:
 
 * Open a ticket in **LilFunSize's FamClub**
 * Contact **CrossSkull** directly via Discord
-* Submit a request via the support form (if applicable)
+* Submit a request via the [support form](https://forms.gle/XxeovXKy5CrfiMbb8)
